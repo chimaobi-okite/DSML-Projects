@@ -9,7 +9,7 @@ The objective of the network optimization team is to analyze traces of past acti
 • 0 (normal): current activity corresponds to normal behavior of any working day and. Therefore, no re-configuration or redistribution of resources is needed.
 • 1 (unusual): current activity slightly differs from the behavior usually observed for that time of the day (e.g. due to a strike, demonstration, sports event, etc.), which should trigger a reconfiguration of the base station.
 
-The dataset used in this work is from [Kagge](https://www.kaggle.com/competitions/anomaly-detection-in-cellular-networks/overview)
+The dataset used in this work is from [Kaggle](https://www.kaggle.com/competitions/anomaly-detection-in-cellular-networks/overview)
 
 #### About Repository
 
