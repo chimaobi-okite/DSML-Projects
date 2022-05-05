@@ -15,4 +15,11 @@ The dataset used in this work is from [Kaggle](https://www.kaggle.com/competitio
 
 This repo contains the EDA, preprocessing and modelling notebooks in addition to other files for deployment on Heroku using streamlit. 
 
+#### Project Workflow
+* Source for sample datset
+* Exploratory Data Anaysis
+* Fearure engineering and data processing
+* Modelling
+* Model Deployment
+
 want a **Demo**, click [here](https://anomalydemo.herokuapp.com/)
