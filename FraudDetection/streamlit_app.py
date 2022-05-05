@@ -11,7 +11,7 @@ import pickle
 from datetime import time
 
 ##load the training model
-pickle_in = open(r"C:\Users\lenovo\Documents\Machine_Learning\Deployments\classifier.pkl", 'rb') 
+pickle_in = open(r"classifier.pkl", 'rb') 
 classifier = pickle.load(pickle_in)
 
 def main():
